@@ -1,5 +1,5 @@
 This is a test text 1
  modified by keeki88
 
-
-This file is tutorial project for GitHub practice.
+SM ADDED ANOTHER LINE (SMC)
+This file is tutorial project for GitHub practice. (DHK)
