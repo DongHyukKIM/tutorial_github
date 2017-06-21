@@ -1,3 +1,7 @@
 This is a test text 1
+<<<<<<< HEAD
 
 SM ADDED ANOTHER LINE
+=======
+ modified by keeki88
+>>>>>>> 547b5cf89926ff404f52423c92e697271a5b5083
